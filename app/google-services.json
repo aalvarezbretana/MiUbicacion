@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "644906993250",
+    "project_id": "miubicacion-334120",
+    "storage_bucket": "miubicacion-334120.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644906993250:android:b95890ee3424a1de7b333b",
+        "android_client_info": {
+          "package_name": "com.example.miubicacion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644906993250-l0iv1ob9edrr2flup24mk3575eelolrm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.miubicacion",
+            "certificate_hash": "e1ba1cf636eed4dcbbf0acbd9361fb5305b099a0"
+          }
+        },
+        {
+          "client_id": "644906993250-1hvue4qvvakb48ijib590j1bkuraf399.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4cwh_byJJkp1f2NzFrFQ2Nh8Hy8c0E0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644906993250-1hvue4qvvakb48ijib590j1bkuraf399.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

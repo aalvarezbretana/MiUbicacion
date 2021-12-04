@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- añadimos la api key-->
+<resources>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCoyTL1kIkvOs7kU0tOAJ20DEfRi4mlM24</string>
+</resources>
